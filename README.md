@@ -22,7 +22,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
-<img src="walkthrough_part2.gif" width=250><br>
+<img src="walkthrough_part2.gif" width=450><br>
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
@@ -46,7 +46,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
-<img src="https://github.com/harshpatelk/Flixster/blob/master/walkthrough.gif" width=250><br>
+<img src="walkthrough.gif" width=450><br>
 
 ### Open-source libraries used
 
